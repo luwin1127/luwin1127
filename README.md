@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luwin1127
+- 👋 Hi, I’m @LEI Lie
 - 👀 I’m interested in Differential Game
 - 🌱 I’m currently learning Differential Game in MATLAB
 - 💞️ I’m looking to collaborate on Differential Game
