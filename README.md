@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LEI Lie
-- 👀 I’m interested in Differential Game
+- 👀 I’m interested in differential game and Baysian game
 - 🌱 I’m currently learning Differential Game in MATLAB
-- 💞️ I’m looking to collaborate on Differential Game
+- 💞️ You can see more about me at leilie.top/about
 - 📫 How to reach me: lorfofdapanji@foxmail
 
 <!---
