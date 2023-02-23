@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lingwei LI
+- 👋 Hi, I’m @Lie LEI
 - 👀 I’m interested in differential game and Baysian game
 - 🌱 I’m currently learning Differential Game in MATLAB
 - 💞️ You can see more about me at leilie.top/about
